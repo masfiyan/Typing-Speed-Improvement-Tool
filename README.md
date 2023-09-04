@@ -14,7 +14,7 @@ Application is a typing speed improvement tool developed to help users enhance t
 
 1. Clone the repository:
    ```
-   git clone <repo url>
+   git clone <repo link>
    ```
 2. Run the application:
 
